@@ -1,0 +1,15 @@
+C:\Users\AREK\Desktop\gid education\seminar02new\bin\Debug\net6.0\seminar02new.exe
+C:\Users\AREK\Desktop\gid education\seminar02new\bin\Debug\net6.0\seminar02new.deps.json
+C:\Users\AREK\Desktop\gid education\seminar02new\bin\Debug\net6.0\seminar02new.runtimeconfig.json
+C:\Users\AREK\Desktop\gid education\seminar02new\bin\Debug\net6.0\seminar02new.dll
+C:\Users\AREK\Desktop\gid education\seminar02new\bin\Debug\net6.0\seminar02new.pdb
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.csproj.AssemblyReference.cache
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.AssemblyInfoInputs.cache
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.AssemblyInfo.cs
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.csproj.CoreCompileInputs.cache
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.dll
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\refint\seminar02new.dll
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.pdb
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\seminar02new.genruntimeconfig.cache
+C:\Users\AREK\Desktop\gid education\seminar02new\obj\Debug\net6.0\ref\seminar02new.dll

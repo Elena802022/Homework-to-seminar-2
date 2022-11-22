@@ -1,0 +1,14 @@
+
+// Zadacha 10
+
+Console.WriteLine("Enter three-digit number: ");
+String Numbers = (Console.ReadLine()!);
+
+if (Numbers.Length !=3)
+{
+    Console.WriteLine("Entered wrong number!");
+}
+else
+{
+    Console.WriteLine($"Number without first and third digit is: {Numbers[1]}");
+}
